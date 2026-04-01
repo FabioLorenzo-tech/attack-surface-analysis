@@ -38,9 +38,9 @@ Ao acessar o servidor via navegador:
 ## ⚠️ Possíveis Riscos Identificados
 - Exposição de arquivos sensíveis via directory listing
 - Serviços críticos expostos publicamente:
-- SSH (acesso remoto)
-- RDP (acesso remoto gráfico)
-- Banco de dados (MySQL/MariaDB)
+> - SSH (acesso remoto)
+> - RDP (acesso remoto gráfico)
+> - Banco de dados (MySQL/MariaDB)
 - Possível risco de autenticação fraca
 - Superfície de ataque ampliada
 ## 🧠 Interpretação
