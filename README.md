@@ -3,7 +3,7 @@
 
 Este projeto documenta uma análise inicial de reconhecimento (reconhecimento de rede) em um servidor web exposto, com foco na identificação de serviços ativos e possíveis riscos de segurança.
 
-# ⚠️ Observação: O endereço IP foi parcialmente anonimizado por questões éticas. Nenhuma tentativa de exploração ou acesso não autorizado foi realizada.
+ ⚠️ Observação: O endereço IP foi parcialmente anonimizado por questões éticas. Nenhuma tentativa de exploração ou acesso não autorizado foi realizada.
 
  ## 🛠️ Ferramentas Utilizadas
 - Nmap (enumeração de portas e serviços)
